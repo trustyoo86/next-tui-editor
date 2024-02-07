@@ -1,0 +1,40 @@
+{
+  "name": "tui-next-editor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "trustyoo86",
+  "license": "MIT",
+  "dependencies": {
+    "@toast-ui/editor": "3.2.2",
+    "@toast-ui/editor-plugin-table-merged-cell": "3.0.2",
+    "@toast-ui/react-editor": "3.1.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.17.5",
+    "@rollup/plugin-alias": "~3.1.9",
+    "@rollup/plugin-babel": "~5.3.1",
+    "@rollup/plugin-commonjs": "22.0.2",
+    "@rollup/plugin-dynamic-import-vars": "^2.0.3",
+    "@rollup/plugin-multi-entry": "^6.0.0",
+    "@rollup/plugin-node-resolve": "13.3.0",
+    "@rollup/plugin-typescript": "^11.0.0",
+    "@types/babel__core": "^7",
+    "@types/node": "17.0.18",
+    "@types/qs": "6.9.7",
+    "@types/react": "18.0.25",
+    "@types/styled-components": "5.1.26",
+    "babel-plugin-import": "~1.13.5",
+    "eslint": "8.9.0",
+    "eslint-config-prettier": "~8.5.0",
+    "rollup": "2.79.0",
+    "rollup-plugin-bundle-size": "~1.0.3",
+    "rollup-plugin-css-only": "^4.5.2",
+    "rollup-plugin-peer-deps-external": "~2.2.4",
+    "rollup-plugin-typescript2": "0.33.0",
+    "rollup-plugin-visualizer": "~5.8.1",
+    "tslib": "2.4.0",
+    "typescript": "5.1.3"
+  }
+}
